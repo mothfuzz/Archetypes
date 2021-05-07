@@ -2,9 +2,10 @@
 
 Designed to be simple, lightweight, easy-to-use, and performant.
 
-Find a guided tour in example_main.cpp
+Find a guided tour in `example_main.cpp`
+
 Or, to get started, simply drop all the files into your include directory and
-    #include "archetypes.hpp"
+    `#include "archetypes.hpp"`
 
 basic functionality:
 
