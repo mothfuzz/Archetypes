@@ -1,4 +1,4 @@
-# Archetypes - header-only archetype-based ECS for C++17.
+# Archetypes: header-only archetypal ECS for C++17
 
 Designed to be simple, lightweight, easy-to-use, and performant.
 
